@@ -17,20 +17,21 @@ Het Team
 Repository Structuur
 Om de integriteit van het onderzoek te waarborgen, hanteren we de volgende mappen:
 * `/01_Documentation`: Bevat het datamanagementplan, de ethische goedkeuring en het codeboek.
-* `/02_Scripts`: R/Python/SPSS scripts voor de data-opschoning en analyse.
+* `/02_Scripts`: R/SPSS scripts voor de data-opschoning en analyse.
 * `/03_Output`: Visualisaties, tabellen en de uiteindelijke rapportage.
 * `/04_Data`: (Lokaal aanwezig, niet op GitHub) Bevat de ruwe en geprepareerde datasets.
 
-## 🔒 Data Regels & Veiligheid
-Dit project werkt met gevoelige politieke informatie. Daarom gelden de volgende strikte regels:
-1. **Geen Ruwe Data op GitHub:** De map `/data` wordt genegeerd door Git om te voorkomen dat PII (Personally Identifiable Information) online komt.
-2. **Anonimisering:** Alle data in de analysefase is geanonimiseerd conform de GDPR-richtlijnen.
-3. **Versiebeheer:** Wijzigingen aan documentatie of scripts worden altijd via 'Commits' met een duidelijke beschrijving doorgevoerd.
+Data Regels & Veiligheid
+De privacy van onze respondenten staat centraal. We hanteren strikte regels voor data-afhandeling:
+* Geen data op GitHub:** Er wordt nooit ruwe of identificeerbare data geüpload naar deze repository.
+* Privacy-by-design:** We gebruiken de anonimiseringsfuncties van Qualtrics.
+* Protocol:** Voor het volledige databeleid, zie: 
+  [Data Management Plan (docs/data_management_plan.md)](docs/data_management_plan.md)
 
 Status van het onderzoek
-- [x] Ontwerp Qualtrics bevraging
+- [ ] Ontwerp Qualtrics bevraging
 - [ ] Opstellen Repository & Documentatie (Huidige fase)
-- [ ] Dataverzameling (Startdatum: DD-MM-YYYY)
+- [x] Dataverzameling (Startdatum: DD-MM-YYYY)
 - [ ] Data-analyse
 - [ ] Rapportage
 
