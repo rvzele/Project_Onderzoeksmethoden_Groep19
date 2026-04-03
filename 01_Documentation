@@ -19,15 +19,16 @@ Respondenten worden uitgesloten van de dataset indien zij voldoen aan één of m
 De data wordt gezuiverd op basis van de volgende inhoudelijke controles:
 
 Attention Checks
-Respondenten die een specifiek controle-item (instructievraag) foutief beantwoorden, worden verwijderd uit de dataset om de data-integriteit te waarborgen.
+Respondenten die een specifieke controle-items onder `Motivatoren` en `Drempels` foutief beantwoorden, worden verwijderd uit de dataset om de data-integriteit te waarborgen.
 
 Logische Inconsistentie
 Er vindt een controle plaats op tegenstrijdige antwoorden:
 * Leeftijdscheck: De gerapporteerde leeftijd bij het eerste contact met steminformatie (`Q32`) mag niet hoger zijn dan de huidige leeftijd (`Q27`).
 * Validiteitscheck: Respondenten die 18 jaar oud zijn (`Q27`) maar aangeven gestemd te hebben bij de lokale verkiezingen van oktober 2024 (`Q25`), worden nader gecontroleerd (gezien de kiesgerechtigde leeftijd op dat moment).
 
-Patroonanalyse (Straight-lining)
-Respondenten die in matrix-tabellen (zoals de motivatoren in `Q41`) voor elk item exact dezelfde score geven over meerdere blokken heen, worden uitgesloten. Dit wijst op een gebrek aan differentiatie.
+
+-- Patroonanalyse (Straight-lining)
+Respondenten die in matrix-tabellen (zoals de motivatoren in `Q41`) voor elk item exact dezelfde score geven over meerdere blokken heen, worden uitgesloten. Dit wijst op een gebrek aan differentiatie. --
 
 ---
 *Laatste update: 3 april 2026*
