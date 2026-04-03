@@ -28,7 +28,7 @@ De privacy van onze respondenten staat centraal. We hanteren strikte regels voor
 * Geen data op GitHub: Er wordt nooit ruwe of identificeerbare data geüpload naar deze repository.
 * Privacy-by-design: We gebruiken de anonimiseringsfuncties van Qualtrics.
 * Protocol: Voor het volledige databeleid, zie: 
-  [Data Management Plan (docs/data_management_plan.md)](docs/data_management_plan.md)
+  [Data Management Plan ](01_Documentation)
 
 Status van het onderzoek
 - [ ] Ontwerp Qualtrics bevraging
