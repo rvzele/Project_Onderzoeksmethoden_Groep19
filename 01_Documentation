@@ -1,32 +1,32 @@
-# Protocol voor Datakwaliteit en Exclusie
+Protocol voor Datakwaliteit en Exclusie
 
 Dit document definieert de criteria voor de selectie van respondenten in de definitieve dataset voor het onderzoek naar electoraal verzuim bij jongeren (18-24 jaar).
 
-## 1. Insluitingscriteria
+1. Insluitingscriteria
 Respondenten worden enkel opgenomen in de analyse indien zij voldoen aan **alle** volgende voorwaarden:
 
-* **Doelgroep:** Leeftijd tussen 18 en 24 jaar (gecontroleerd via variabele `Q27`).
-* **Informed Consent:** Expliciete toestemming ("Ik ga akkoord") bij de start van de enquête (`Q1`).
-* **Privacybevestiging:** Bevestiging van deelname en anonieme verwerking aan het einde van de enquête (`Q39`).
+* Doelgroep: Leeftijd tussen 18 en 24 jaar (gecontroleerd via variabele `Q27`).
+* Informed Consent: Expliciete toestemming ("Ik ga akkoord") bij de start van de enquête (`Q1`).
+* Privacybevestiging: Bevestiging van deelname en anonieme verwerking aan het einde van de enquête (`Q39`).
 
-## 2. Uitsluitingscriteria
+2. Uitsluitingscriteria
 Respondenten worden uitgesloten van de dataset indien zij voldoen aan één of meer van de volgende punten:
 
-* **Onvolledige respons:** De enquête is afgebroken voordat de laatste verificatievraag (`Q39`) is bereikt.
-* **Onbetrouwbare snelheid (Speeders):** De totale invultijd is minder dan een derde (1/3) van de mediaan van de totale populatie. Dit wordt beschouwd als een indicatie van onzorgvuldig lezen.
+* Onvolledige respons: De enquête is afgebroken voordat de laatste verificatievraag (`Q39`) is bereikt.
+* Onbetrouwbare snelheid (Speeders): De totale invultijd is minder dan een derde (1/3) van de mediaan van de totale populatie. Dit wordt beschouwd als een indicatie van onzorgvuldig lezen.
 
-## 3. Kwaliteitscontrole en Consistentie
+3. Kwaliteitscontrole en Consistentie
 De data wordt gezuiverd op basis van de volgende inhoudelijke controles:
 
-### Attention Checks
+Attention Checks
 Respondenten die een specifiek controle-item (instructievraag) foutief beantwoorden, worden verwijderd uit de dataset om de data-integriteit te waarborgen.
 
-### Logische Inconsistentie
+Logische Inconsistentie
 Er vindt een controle plaats op tegenstrijdige antwoorden:
-* **Leeftijdscheck:** De gerapporteerde leeftijd bij het eerste contact met steminformatie (`Q32`) mag niet hoger zijn dan de huidige leeftijd (`Q27`).
-* **Validiteitscheck:** Respondenten die 18 jaar oud zijn (`Q27`) maar aangeven gestemd te hebben bij de lokale verkiezingen van oktober 2024 (`Q25`), worden nader gecontroleerd (gezien de kiesgerechtigde leeftijd op dat moment).
+* Leeftijdscheck: De gerapporteerde leeftijd bij het eerste contact met steminformatie (`Q32`) mag niet hoger zijn dan de huidige leeftijd (`Q27`).
+* Validiteitscheck: Respondenten die 18 jaar oud zijn (`Q27`) maar aangeven gestemd te hebben bij de lokale verkiezingen van oktober 2024 (`Q25`), worden nader gecontroleerd (gezien de kiesgerechtigde leeftijd op dat moment).
 
-### Patroonanalyse (Straight-lining)
+Patroonanalyse (Straight-lining)
 Respondenten die in matrix-tabellen (zoals de motivatoren in `Q41`) voor elk item exact dezelfde score geven over meerdere blokken heen, worden uitgesloten. Dit wijst op een gebrek aan differentiatie.
 
 ---
