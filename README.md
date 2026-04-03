@@ -23,9 +23,9 @@ Om de integriteit van het onderzoek te waarborgen, hanteren we de volgende mappe
 
 Data Regels & Veiligheid
 De privacy van onze respondenten staat centraal. We hanteren strikte regels voor data-afhandeling:
-* Geen data op GitHub:** Er wordt nooit ruwe of identificeerbare data geüpload naar deze repository.
-* Privacy-by-design:** We gebruiken de anonimiseringsfuncties van Qualtrics.
-* Protocol:** Voor het volledige databeleid, zie: 
+* Geen data op GitHub: Er wordt nooit ruwe of identificeerbare data geüpload naar deze repository.
+* Privacy-by-design: We gebruiken de anonimiseringsfuncties van Qualtrics.
+* Protocol: Voor het volledige databeleid, zie: 
   [Data Management Plan (docs/data_management_plan.md)](docs/data_management_plan.md)
 
 Status van het onderzoek
@@ -35,5 +35,4 @@ Status van het onderzoek
 - [ ] Data-analyse
 - [ ] Rapportage
 
----
-*Dit is een lopend onderzoek. Voor vragen kun je contact opnemen met de projectleiders via [E-mailadres].*
+* Dit is een lopend onderzoek. Voor vragen kun je contact opnemen met de projectleiders via roel.vanzele@ugent.be.
