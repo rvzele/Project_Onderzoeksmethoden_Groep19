@@ -32,7 +32,7 @@ De privacy van onze respondenten staat centraal. We hanteren strikte regels voor
 
 Status van het onderzoek
 - [ ] Ontwerp Qualtrics bevraging
-- [ ] Opstellen Repository & Documentatie (Huidige fase)
+- [ ] Opstellen Repository & Documentatie
 - [x] Dataverzameling (Startdatum: DD-MM-YYYY)
 - [ ] Data-analyse
 - [ ] Rapportage
