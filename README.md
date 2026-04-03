@@ -22,7 +22,7 @@ Om de integriteit van het onderzoek te waarborgen, hanteren we de volgende mappe
 * `/04_Data`: (Lokaal aanwezig, niet op GitHub) Bevat de ruwe en geprepareerde datasets.
 
 Data Regels & Veiligheid
-De privacy van onze respondenten staat centraal. We hanteren strikte regels voor data-afhandeling:
+* De privacy van onze respondenten staat centraal. We hanteren strikte regels voor data-afhandeling:
 * Geen data op GitHub: Er wordt nooit ruwe of identificeerbare data geüpload naar deze repository.
 * Privacy-by-design: We gebruiken de anonimiseringsfuncties van Qualtrics.
 * Protocol: Voor het volledige databeleid, zie: 
