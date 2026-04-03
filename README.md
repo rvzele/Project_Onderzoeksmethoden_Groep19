@@ -5,14 +5,14 @@ Projectomschrijving
 Dit onderzoek richt zich op de vraag hoe de Vlaamse overheid de opkomst bij jongeren bij de gemeente-raadsverkiezingen kan verhogen. Ondanks het belang van lokaal beleid, zien we een schommelende opkomst. Via een Qualtrics-bevraging verzamelen we data over motivaties, sociaal-demografische kenmerken en het vertrouwen in de politiek om patronen van politieke onthouding te identificeren.
 
 Het Team
-*Arthur Verboven 1(@arvebov) - 
-*Maxime Bauwens 2(@bauwensmaxime) - 
-*Simon Desmedt 3(@Smedtje007) - 
-*Thibault Ledegen 4(@Thibaultledegen) - 
-*Roel Van Zele 5(@rvzele) - 
-*Flor Cornu 6(@   )-
-*Emile De Bourdeaud'huy 7(@Emile679) -
-*Matisse Van Houdt 8(@   ) -
+* Arthur Verboven 1(@arvebov) - 
+* Maxime Bauwens 2(@bauwensmaxime) - 
+* Simon Desmedt 3(@Smedtje007) - 
+* Thibault Ledegen 4(@Thibaultledegen) - 
+* Roel Van Zele 5(@rvzele) - 
+* Flor Cornu 6(@   )-
+* Emile De Bourdeaud'huy 7(@Emile679) -
+* Matisse Van Houdt 8(@   ) -
 
 Repository Structuur
 Om de integriteit van het onderzoek te waarborgen, hanteren we de volgende mappen:
