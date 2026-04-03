@@ -1,7 +1,7 @@
 Project_Onderzoeksmethoden_Groep19
 Onderzoek: Opkomst bij jongeren op gemeente-raadsverkiezingen
 
-Projectomschrijving
+Projectomschrijving:
 Dit onderzoek richt zich op de vraag hoe de Vlaamse overheid de opkomst bij jongeren bij de gemeente-raadsverkiezingen kan verhogen. Ondanks het belang van lokaal beleid, zien we een schommelende opkomst. Via een Qualtrics-bevraging verzamelen we data over motivaties, sociaal-demografische kenmerken en het vertrouwen in de politiek om patronen van politieke onthouding te identificeren.
 
 Het Team
