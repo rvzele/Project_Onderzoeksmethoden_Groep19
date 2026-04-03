@@ -15,6 +15,7 @@ Het Team
 * Matisse Van Houdt 8(@   ) -
 
 Repository Structuur
+
 Om de integriteit van het onderzoek te waarborgen, hanteren we de volgende mappen:
 * `/01_Documentation`: Bevat het datamanagementplan, de ethische goedkeuring en het codeboek.
 * `/02_Scripts`: R/SPSS scripts voor de data-opschoning en analyse.
@@ -22,6 +23,7 @@ Om de integriteit van het onderzoek te waarborgen, hanteren we de volgende mappe
 * `/04_Data`: (Lokaal aanwezig, niet op GitHub) Bevat de ruwe en geprepareerde datasets.
 
 Data Regels & Veiligheid
+
 De privacy van onze respondenten staat centraal. We hanteren strikte regels voor data-afhandeling:
 * Geen data op GitHub: Er wordt nooit ruwe of identificeerbare data geüpload naar deze repository.
 * Privacy-by-design: We gebruiken de anonimiseringsfuncties van Qualtrics.
