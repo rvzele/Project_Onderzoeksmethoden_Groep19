@@ -28,12 +28,17 @@ Er vindt een controle plaats op tegenstrijdige antwoorden:
 
 4. Quota Management en Selectieprocedure
 Beoogde Quota-verdeling:
+
 * Stemgedrag: 50% Stemmers / 50% Niet-stemmers.
 * Opleidingsniveau: 45% Hoogopgeleid / 40% Middenopgeleid / 15% Laagopgeleid.
+
 Procedure bij Overschrijding (Over-sampling):
+
 * Chronologische Selectie: Wanneer een quotum bereikt is, worden de eerste geldige respondenten die chronologisch zijn ingediend opgenomen.
 * Reserve-pool: Respondenten die buiten het quotum vallen, worden verplaatst naar een reserve-pool en niet meegenomen in de primaire rapportage.
+
 Procedure bij Onderschrijding (Under-sampling):
+
 * Gerichte Rekrutering: De looptijd van de enquête wordt verlengd met [14 dagen] met specifieke focus op de ondervertegenwoordigde doelgroepen.
 * Post-stratificatie Weging: Indien quota niet gehaald worden, kan in de analysefase statistische weging worden toegepast om de beoogde populatieverdeling te benaderen.
 * Transparantie: Eventuele afwijkingen en wegingen worden expliciet vermeld in de methodologische verantwoording.
