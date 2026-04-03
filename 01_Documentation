@@ -1,1 +1,19 @@
+Protocol voor Datakwaliteit en Exclusie
+Om de validiteit en betrouwbaarheid van het onderzoek, worden de volgende criteria gehanteerd voor de definitieve dataset:
+* 1. Insluitingscriteria (Inclusion)
+Enkel respondenten die aan alle onderstaande voorwaarden voldoen, worden opgenomen in de analyse:
+* Doelgroepvalidatie: De respondent bevindt zich in de leeftijdscategorie 18 tot 24 jaar (gemeten via Q27) .
+* Geïnformeerde toestemming: De respondent heeft expliciet "Ik ga akkoord" geselecteerd bij de start van de enquête (Q1).
+* Privacybevestiging: De respondent heeft aan het einde van de enquête de toestemming voor anonieme verwerking bevestigd (Q39).
+* 2. Uitsluitingscriteria (Exclusion)
+Respondenten worden uitgesloten van de dataset indien zij voldoen aan één of meer van de volgende punten:
+* Onvolledige respons: Surveys die vroegtijdig zijn afgebroken (vóór het bereiken van Q39).
+* Speeders (Tijdscontrole): Respondenten die de enquête hebben voltooid in minder dan 1/3 van de mediaan van de totale invultijd (indicatie van onzorgvuldig lezen).
+3. Kwaliteitscontrole (Attention & Consistency)
+De data wordt gezuiverd van onbetrouwbare antwoordpatronen via:
+* Attention Checks: Respondenten die de specifieke instructievraag (controle-item) foutief beantwoorden, worden verwijderd.
+* Logische Inconsistentie:
+De gerapporteerde leeftijd bij het eerste contact met steminformatie (Q32) is hoger dan de huidige leeftijd (Q27).
+De respondent is 18 jaar oud (Q27), maar beweert gestemd te hebben of stemgerechtigd te zijn geweest in oktober 2024 (Q25).
+???Straight-lining: Respondenten die in meerdere matrix-tabellen (zoals de motivatoren in Q41 of de affiche-beoordelingen) voor elk item exact dezelfde score geven, worden uitgesloten wegens een gebrek aan differentiatie.???
 
