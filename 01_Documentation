@@ -23,7 +23,7 @@ Respondenten die de specifieke controle-vragen onder `Motivatoren` en `Drempels`
 
 Logische Inconsistentie
 Er vindt een controle plaats op tegenstrijdige antwoorden:
-* Leeftijdscheck: De gerapporteerde leeftijd bij het eerste contact met steminformatie (`Q32`) mag niet hoger zijn dan de huidige leeftijd (`Q27`).
+* Leeftijdscheck: De gerapporteerde leeftijd bij het eerste contact met informatie over verkiezingen (`Q32`) mag niet hoger zijn dan de huidige leeftijd (`Q27`).
 * Validiteitscheck: Respondenten die 18 jaar oud zijn (`Q27`) maar aangeven gestemd te hebben bij de lokale verkiezingen van oktober 2024 (`Q25`), worden nader gecontroleerd (gezien de kiesgerechtigde leeftijd op dat moment).
 
 4. Quota Management en Selectieprocedure
