@@ -18,7 +18,7 @@ Repository Structuur
 
 Om de integriteit van het onderzoek te waarborgen, hanteren we de volgende mappen:
 * `/01_Documentation`: Bevat het datamanagementplan, de ethische goedkeuring en het codeboek.
-* `/02_Output`: Visualisaties, tabellen en de uiteindelijke rapportage.
+* `/02_Output`: Visualisaties en tabellen
 * `/03_Data`: (Lokaal aanwezig, niet op GitHub) Bevat de ruwe en geprepareerde datasets.
 
 Data Regels & Veiligheid
