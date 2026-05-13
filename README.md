@@ -18,9 +18,8 @@ Repository Structuur
 
 Om de integriteit van het onderzoek te waarborgen, hanteren we de volgende mappen:
 * `/01_Documentation`: Bevat het datamanagementplan, de ethische goedkeuring en het codeboek.
-* `/02_Scripts`: R/SPSS scripts voor de data-opschoning en analyse.
-* `/03_Output`: Visualisaties, tabellen en de uiteindelijke rapportage.
-* `/04_Data`: (Lokaal aanwezig, niet op GitHub) Bevat de ruwe en geprepareerde datasets.
+* `/02_Output`: Visualisaties, tabellen en de uiteindelijke rapportage.
+* `/03_Data`: (Lokaal aanwezig, niet op GitHub) Bevat de ruwe en geprepareerde datasets.
 
 Data Regels & Veiligheid
 
@@ -31,10 +30,10 @@ De privacy van onze respondenten staat centraal. We hanteren strikte regels voor
   [Data Management Plan ](01_Documentation)
 
 Status van het onderzoek
-- [ ] Ontwerp Qualtrics bevraging
-- [ ] Opstellen Repository & Documentatie
-- [ ] Dataverzameling (Startdatum: DD-MM-YYYY)
+- [x] Ontwerp Qualtrics bevraging
+- [x] Opstellen Repository & Documentatie
+- [x] Dataverzameling (Startdatum: 06-04-2026 Einddatum: 05-05-2026)
 - [x] Data-analyse
-- [ ] Rapportage
+- [x] Rapportage
 
 * Dit is een lopend onderzoek. Voor vragen kun je contact opnemen met de projectleiders via roel.vanzele@ugent.be.
