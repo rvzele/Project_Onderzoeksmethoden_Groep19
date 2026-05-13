@@ -33,8 +33,8 @@ De privacy van onze respondenten staat centraal. We hanteren strikte regels voor
 Status van het onderzoek
 - [ ] Ontwerp Qualtrics bevraging
 - [ ] Opstellen Repository & Documentatie
-- [x] Dataverzameling (Startdatum: DD-MM-YYYY)
-- [ ] Data-analyse
+- [ ] Dataverzameling (Startdatum: DD-MM-YYYY)
+- [x] Data-analyse
 - [ ] Rapportage
 
 * Dit is een lopend onderzoek. Voor vragen kun je contact opnemen met de projectleiders via roel.vanzele@ugent.be.
